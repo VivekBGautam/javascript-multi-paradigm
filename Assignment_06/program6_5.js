@@ -2,7 +2,7 @@
 
 ////////////////////////////////////////////////////////////////////////
 //
-//  Function Name   :   CalculatePercent
+//  Function Name   :   CalculatePercent 
 //  Description     :   Used to calculate percentage by taking total mark and obtain mark
 //  Input           :   Total Mark and obtain mark 
 //  Output          :   It will return percentage 
