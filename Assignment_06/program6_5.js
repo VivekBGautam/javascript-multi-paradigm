@@ -1,7 +1,7 @@
 // Write A program which Accept the Total mark and Obtain mark And calcute percentage
 
 ////////////////////////////////////////////////////////////////////////
-//
+// 
 //  Function Name   :   CalculatePercent 
 //  Description     :   Used to calculate percentage by taking total mark and obtain mark
 //  Input           :   Total Mark and obtain mark 
