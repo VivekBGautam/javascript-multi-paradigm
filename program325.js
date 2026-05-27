@@ -1,7 +1,7 @@
 
 var no1 = 11;
 
-let no2 = 21; 
+let no2 = 21;
 
 const no3 = 51; 
 
