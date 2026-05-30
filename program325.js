@@ -1,5 +1,5 @@
 
-var no1 = 11;
+var no1 = 11; 
 
 let no2 = 21;
 
