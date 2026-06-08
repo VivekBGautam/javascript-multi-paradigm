@@ -1,4 +1,4 @@
-let no1 = 10; 
+let no1 = 10;
 let no2 = 11; 
 
 let ans = 0;
